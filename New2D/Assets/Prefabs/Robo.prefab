@@ -101,7 +101,7 @@ GameObject:
   - component: {fileID: 970125917}
   m_Layer: 0
   m_Name: Robo
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -257,4 +257,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59ea6a5ba369c234ab372f14a6a22309, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinSound: {fileID: 0}
+  coinSound: {fileID: 8300000, guid: 17daccdb234d4144bbb2a9871094cda6, type: 3}
